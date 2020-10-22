@@ -52,12 +52,12 @@ body {
     flex-direction: column;
     background-color: #ffffff;
     width: 100%;
-    padding: 1.3rem 0;
+    padding: 1rem 0;
     border: 1px solid lightgrey;
 }
 
 .group:nth-child(1) {
-    min-height: 19rem;    
+    min-height: 1rem;    
 }
 
 .instagram-logo {
@@ -101,7 +101,7 @@ body {
     flex-direction: column;
     align-items: center;
     width: 100%;
-    padding: 1.3rem 0;
+    padding: 1.3rem 0;    
 }
 
 .download {
@@ -115,8 +115,8 @@ body {
 .app-download {
     height: 3rem;
     width: 10rem;
-    background-size: cover;    
-}
+    background-size: cover; 
+   }
 
 .app-download:nth-child(1) {
     background-image: url('./img/ios.png');
